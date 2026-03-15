@@ -5,3 +5,4 @@ git.add [local folder name which does not exists in github} (USED TO MOVE LOCAL 
 git commit -m "message"(THIS IS USED TO DECLARE MESSAGE WHICH IS VERY IMPORTANT IN GITHUB)
 git push origin main (THIS COMMAND MOVES LOCAL FOLDER TO GITHUB FOLDER)
 git pull (command used to get file which created in github)
+git rm (this command used to delete files in github)
