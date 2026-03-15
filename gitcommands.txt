@@ -1,0 +1,7 @@
+git clone {REPOSITORY LINK} (THIS COMMAND IS USED TO GET REPOSTORY FROM GITHUB)
+git status (TO CHECK GIT FOLDER STATUS)
+cd {filename} (USED TO ENTER INTO THE FOLDER)
+git.add [local folder name which does not exists in github} (USED TO MOVE LOCAL FOLDER INTO GITHUB FOLDER)
+git commit -m "message"(THIS IS USED TO DECLARE MESSAGE WHICH IS VERY IMPORTANT IN GITHUB)
+git push origin main (THIS COMMAND MOVES LOCAL FOLDER TO GITHUB FOLDER)
+git pull (command used to get file which created in github)
