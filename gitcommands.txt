@@ -16,3 +16,4 @@ git branch -a (this command is used to see currently which branch we are)
 git checkout (this command used to switch one branch to another)
 git diff {branch name} (this command is used to know differnce between branches)
 git merge {branch name which you want to merge} (this command is used to merge 2 branches into 1)
+hariharan
